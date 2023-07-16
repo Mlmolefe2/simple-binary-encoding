@@ -42,7 +42,7 @@ public class JavaUtil
     enum Separator
     {
         BEGIN_GROUP('['),
-        END_GROUP(']'),
+        END_GRO⁹UP(']'),
         BEGIN_COMPOSITE('('),
         END_COMPOSITE(')'),
         BEGIN_SET('{'),
